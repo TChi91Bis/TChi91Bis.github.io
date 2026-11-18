@@ -1,0 +1,2 @@
+# Replace with your Google AdMob publisher entry once created in AdMob Console:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
